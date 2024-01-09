@@ -32,23 +32,3 @@ Se você quiser contribuir com o projeto, fique à vontade para abrir uma issue 
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-- Tailwind CSS
-- Sqlite
-- Docker (ainda não implementado)
-
-## Como executar o projeto
-
-1. Clone o repositório.
-2. Instale as dependências do Laravel.
-3. Configure o arquivo .env com as informações do banco de dados.
-4. Execute as migrações do banco de dados.
-5. Execute os Seeders.
-5. Inicie o servidor do Laravel.
-
-## Contribuição
-
-Se você quiser contribuir com o projeto, fique à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
